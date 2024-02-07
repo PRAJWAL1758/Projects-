@@ -5,7 +5,7 @@ panels.forEach((panel) => {
         removeActionClasses()
         panel.classList.add('active')
     })
- 
+  
 })
 
 function removeActionClasses() {
